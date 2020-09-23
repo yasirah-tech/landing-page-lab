@@ -10,6 +10,7 @@
 1. Fork this repo
 2. Clone **your forked** repo to your local environment.
 3. Make changes to `index.html` and `style.css` in order to create a site that is nearly identical to the mockup.
-4. Add, commit, and push your changes to your remote repository when you are complete.
+4. Add, commit, and push your changes to your remote repository. 
+5. when you are complete, open a Pull Request into `The-Marcy-Lab-School:master` branch.
 
 **Note**: If you would like to make changes to the text, color scheme, or photo on this page, feel free. I'm most concerned with how closely you can match the _layout_ of the mockup.
