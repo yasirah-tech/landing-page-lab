@@ -8,7 +8,7 @@
 
 ### Directions
 1. Fork this repo
-2. Clone the repo to your local environment
+2. Clone **your forked** repo to your local environment.
 3. Make changes to `index.html` and `style.css` in order to create a site that is nearly identical to the mockup.
 4. Add, commit, and push your changes to your remote repository when you are complete.
 
