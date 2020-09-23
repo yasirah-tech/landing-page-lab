@@ -11,6 +11,5 @@
 2. Clone the repo to your local environment
 3. Make changes to `index.html` and `style.css` in order to create a site that is nearly identical to the mockup.
 4. Add, commit, and push your changes to your remote repository when you are complete.
-5. Submit this lab by posting the link to your GitHub repository on the Google Classroom page.
 
 **Note**: If you would like to make changes to the text, color scheme, or photo on this page, feel free. I'm most concerned with how closely you can match the _layout_ of the mockup.
