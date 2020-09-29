@@ -7,10 +7,11 @@
 * Be sure to use _semantic HTML_ and all that you've learned about `display` properties to get as close to a _pixel perfect_ recreation of this mockup as possible!
 
 ### Directions
-1. Fork this repo
-2. Clone **your forked** repo to your local environment.
-3. Make changes to `index.html` and `style.css` in order to create a site that is nearly identical to the mockup.
-4. Add, commit, and push your changes to your remote repository. 
-5. when you are complete, open a Pull Request into `The-Marcy-Lab-School:master` branch.
+  1. If this is a *Practice Lab*, fork this repo and clone down the forked repo. **OR**
+      * If this is a *Lab Assignment*, just clone this repo without forking it.
+  2. Create your HTML and CSS files.
+  3. Stage, commit, and push your changes regularly.
+  4. If this is a *Practice Lab*, open a pull request into `The-Marcy-Lab-School:master` branch to submit. **OR**
+      * If this is a *Lab Assignment*, copy the URL of this repo and submit it through Canvas. 
 
 **Note**: If you would like to make changes to the text, color scheme, or photo on this page, feel free. I'm most concerned with how closely you can match the _layout_ of the mockup.
